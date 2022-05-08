@@ -1,0 +1,7 @@
+{
+  "name": "FoodCalories",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
